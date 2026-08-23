@@ -1,0 +1,5 @@
+2026-08-01 INFO sistema iniciado
+2026-08-01 ERROR falha de conexao
+2026-08-02 INFO usuario logado
+2026-08-02 WARNING memoria alta
+2026-08-03 ERROR timeout na API
